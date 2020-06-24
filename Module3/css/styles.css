@@ -1,0 +1,152 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: helvetica;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+body {
+	background-color: #2b1d01;
+
+}
+
+p {
+	padding: 10px;
+	margin: 5px;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+section {
+	border:	1px solid black;
+	background-color: white;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+    overflow: auto;
+    text-align: justify;
+}
+
+
+#Seafood {
+	border: 1px solid black;
+	text-align: center;
+	width: 35%;
+	margin-left: 65%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 130%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #FFFF00;
+}
+
+#Grillsteak {
+	border: 1px solid black;
+	text-align: center;
+	width: 35%;
+	margin-left: 65%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 130%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #f78f19;
+}
+
+#pizza {
+	border: 1px solid black;
+	text-align: center;
+	width: 35%;
+	margin-left: 65%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 130%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #f7220a;
+	color: black;
+	padding: 5px;
+}
+
+#seafood-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#Grillsteak-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#pizza-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+
+}
+
+#header-nav {
+  border: 0;
+  background-color: #FEF5CA;
+  color: #61122f;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 20px;
+
+
+}
+
+.nav-header {
+  background-color: black;
+}
+
+/*color FOOD,LLC*/
+.nav-brand {
+  color: #61122f;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color:white;
+}
+/*line ****/
+hr {
+  border-color: #61122f;
+}
+/****Font ***/
+.item {
+  color: black;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+#copyright {
+    margin-bottom: 0%;
+    margin-top: 50%;
+    padding: 40px;
+    text-align: center;
+    color: blanchedalmond;
+}
